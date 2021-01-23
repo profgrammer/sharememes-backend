@@ -3,7 +3,7 @@ A Cool meme sharing app backend with:
 * `Auth0` for Authentication/Authorization
 * `AWS S3` for storing images
 * `Redis` for server side caching
-* Structured, modular code, ready for writing unit tests 🤑
+* Structured, modular code, written using **dependency injection**, ready for writing unit tests 🤑
 * Frontend coming soon *(hopefully)* 😅
 
 #### Dependencies:
